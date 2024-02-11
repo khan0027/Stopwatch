@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#38C5A3"/>
+        </shape>
+
+    </item>
+    <item android:left="10dp"
+        android:right="10dp"
+        android:top="10dp"
+        android:bottom="10dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/black"/>
+        </shape>
+
+    </item>
+    <item>
+        <shape android:shape="line">
+            <stroke android:width="2dp"/>
+        </shape>
+    </item>
+    <item>
+        <rotate android:fromDegrees="6">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="12">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="18">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="24">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="30">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="36">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="42">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="48">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="54">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="60">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="66">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="72">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="78">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="84">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="90">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="96">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="102">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="108">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="114">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="120">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="126">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="132">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="138">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="144">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="150">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="156">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="162">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="168">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="174">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate android:fromDegrees="180">
+            <shape android:shape="line">
+                <stroke android:width="2dp"/>
+            </shape>
+        </rotate>
+    </item>
+
+
+
+</layer-list>
